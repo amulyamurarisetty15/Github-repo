@@ -1,4 +1,4 @@
-print("This assignment is mainly used fir capstone project")
+print("This assignment is mainly used for capstone project")
 
 import pandas as pd
 import numpy as np
